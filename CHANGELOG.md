@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.4.7] - 2026-03-30
+
+### Miscellaneous Tasks
+
+- Add CodSpeed continuous performance benchmarks and workflow ([3c20d52](https://github.com/ozeranskii/httptap/commit/3c20d52c921a5ac873cee5456b2d8060b2001404))
+- **ci:** Harden GitHub Actions security and enhance changelog ([73653b6](https://github.com/ozeranskii/httptap/commit/73653b6f7512e2c7b02f32e082458095197de4df))
+
+
+### New Contributors
+
+- @codspeed-hq[bot] made their first contribution in [#89](https://github.com/ozeranskii/httptap/pull/89)
+
 ## [0.4.6] - 2026-03-20
 
 ### Miscellaneous Tasks
